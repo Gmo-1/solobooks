@@ -1,0 +1,24 @@
+# Dependencias Node.js y compilados React
+frontend/node_modules/
+frontend/build/
+node_modules/
+
+# Entorno virtual y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Variables de entorno locales
+.env
+backend/.env
+
+# Archivos temporales del sistema y editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+RUN
+backend/int
